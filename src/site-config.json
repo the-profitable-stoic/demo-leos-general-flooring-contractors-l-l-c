@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Leos General Flooring Contractors L.L.C",
+    "phone": "+15207882948",
+    "category": "flooring contractor",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Flooring Done Right, Tucson Strong.",
+      "heroSubline": "Leos General Flooring Contractors: Expert installation and repair across Tucson. Quality materials, lasting results.",
+      "aboutTitle": "Decades of Flooring Expertise in Tucson",
+      "aboutText": [
+        "Leos General Flooring Contractors L.L.C was founded over a decade ago by Leo, a Tucson native with a passion for craftsmanship. Starting with small residential projects, our commitment to quality and customer satisfaction quickly fueled our growth. We're not just installing floors; we're building lasting foundations for Tucson homes and businesses.",
+        "Our approach is simple: understand your vision, provide expert guidance, and execute flawlessly. We value honesty, integrity, and hard work. We use only the highest quality materials, ensuring your flooring stands up to the harsh Tucson climate. From initial consultation to final walkthrough, we prioritize clear communication and meticulous attention to detail.",
+        "As a local business, we're deeply invested in the Tucson community. We actively support local schools and charities, and we're committed to sustainable practices. We believe in giving back to the city that has given us so much. When you choose Leos, you're choosing a partner who cares about your project and your community."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision installation by experienced professionals ensures lasting beauty and performance."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, high-quality materials that withstand the Tucson climate and daily wear."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "Get a clear, comprehensive estimate with no hidden costs or obligations."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Tucson's unique housing styles and climate challenges, providing tailored solutions."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and experience the Leos General Flooring difference."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Enhance your Tucson home with the timeless elegance of hardwood.",
+        "description": "Hardwood flooring adds warmth and value to any Tucson home. At Leos General Flooring Contractors, we offer a wide selection of hardwood species, from classic oak and maple to exotic options like Brazilian cherry and bamboo. Our experienced installers ensure a flawless finish that will last for years to come, even with Tucson's dry climate. \n\nWe handle every stage of the process, from subfloor preparation to sanding and sealing. We can also match existing hardwood floors for seamless repairs or additions. Whether you're looking for a traditional look or a modern aesthetic, we'll help you find the perfect hardwood flooring to complement your style and budget. We also provide dustless sanding options to minimize disruption to your home.\n\nConsider the unique challenges of Tucson's climate. We can advise you on the best hardwood options for moisture resistance and durability. We also offer specialized coatings to protect your floors from scratches and UV damage, ensuring they maintain their beauty for years to come. We pride ourselves on delivering exceptional craftsmanship and customer satisfaction.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your vision and select the perfect hardwood style.",
+          "Step 2: Subfloor Preparation – Ensure a level and stable base for optimal installation.",
+          "Step 3: Professional Installation – Precise installation with attention to detail.",
+          "Step 4: Sanding and Finishing – Achieve a smooth, durable, and beautiful surface."
+        ],
+        "benefits": [
+          "Adds Value to Your Home",
+          "Timeless Beauty and Elegance",
+          "Durable and Long-Lasting",
+          "Variety of Styles and Finishes"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Tucson's climate?",
+            "answer": "Engineered hardwood is often a better choice than solid hardwood in Tucson due to its resistance to moisture fluctuations. We also recommend considering species like mesquite or acacia, which are naturally more resistant to dryness."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "Depending on foot traffic and wear, hardwood floors typically need refinishing every 7-10 years. We can assess the condition of your floors and recommend the best course of action."
+          },
+          {
+            "question": "Do you offer dustless sanding?",
+            "answer": "Yes, we offer dustless sanding options to minimize mess and disruption during the refinishing process. This is a great option for homes with allergies or sensitivities."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable and stylish tile flooring solutions for Tucson homes and businesses.",
+        "description": "Tile flooring is a versatile and practical choice for Tucson homes, offering exceptional durability, water resistance, and design flexibility. Leos General Flooring Contractors specializes in the installation of all types of tile, including ceramic, porcelain, and natural stone. Whether you're renovating a bathroom, kitchen, or entryway, we can help you create a stunning and functional space.\n\nWe understand the importance of proper subfloor preparation for tile installation. Our team will ensure a level and stable base to prevent cracks and ensure the longevity of your tile floor. We also offer expert grout sealing services to protect against stains and moisture damage, crucial in Tucson's monsoon season. We can guide you through the selection process, considering factors like style, durability, and budget.\n\nFrom intricate mosaic patterns to large-format tiles, we have the expertise to handle any project. We stay up-to-date on the latest trends and techniques, ensuring your tile floor is not only beautiful but also installed to the highest standards. We prioritize customer satisfaction and guarantee our workmanship. We'll also advise on the best cleaning products to keep your tile looking its best.",
+        "process": [
+          "Step 1: Design Consultation – Explore tile options and create a custom design.",
+          "Step 2: Subfloor Preparation – Ensure a level and stable foundation for tile installation.",
+          "Step 3: Professional Installation – Precise tile placement and grout application.",
+          "Step 4: Sealing and Finishing – Protect your tile and grout for long-lasting beauty."
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Water and Stain Resistance",
+          "Wide Variety of Styles",
+          "Easy to Clean and Maintain"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more water-resistant than ceramic tile, making it a better choice for high-moisture areas like bathrooms and patios. Ceramic tile is generally more affordable and suitable for less demanding applications."
+          },
+          {
+            "question": "How do I prevent grout from staining?",
+            "answer": "Regular cleaning and sealing are essential for preventing grout stains. We recommend using a pH-neutral cleaner and resealing your grout every 1-2 years."
+          },
+          {
+            "question": "Can you install tile over existing flooring?",
+            "answer": "In some cases, we can install tile over existing flooring if the subfloor is structurally sound and level. However, it's often best to remove the existing flooring to ensure a proper installation."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish laminate flooring options for Tucson homeowners.",
+        "description": "Laminate flooring offers a cost-effective and attractive alternative to hardwood and tile. Leos General Flooring Contractors provides a wide selection of laminate styles that mimic the look of natural materials. Laminate is durable, easy to maintain, and resistant to scratches and fading, making it a practical choice for busy Tucson households.\n\nWe offer professional laminate installation services, ensuring a seamless and long-lasting floor. Our team will properly prepare the subfloor to prevent unevenness and ensure a smooth finish. We also use high-quality underlayment to provide cushioning and sound insulation. Considering Tucson's climate, we recommend choosing laminate with a moisture-resistant core to prevent warping and damage.\n\nFrom classic wood grains to modern tile patterns, we have a laminate style to suit any taste. We can help you select the perfect laminate flooring to complement your home's décor and budget. We also offer a variety of edge profiles to create a custom look. We stand behind our workmanship and guarantee your satisfaction.",
+        "process": [
+          "Step 1: Selection and Design – Choose the perfect laminate style for your space.",
+          "Step 2: Subfloor Preparation – Ensure a level and clean surface for installation.",
+          "Step 3: Professional Installation – Precise cutting and fitting for a seamless look.",
+          "Step 4: Finishing Touches – Install moldings and trim for a polished appearance."
+        ],
+        "benefits": [
+          "Affordable and Budget-Friendly",
+          "Durable and Scratch-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate is water-resistant, it is not completely waterproof. We recommend cleaning up spills immediately to prevent damage. For high-moisture areas, consider waterproof laminate options."
+          },
+          {
+            "question": "How do I clean laminate flooring?",
+            "answer": "Use a damp mop and a pH-neutral cleaner specifically designed for laminate flooring. Avoid using excessive water or harsh chemicals."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation ensures a proper fit and finish. Our experienced installers can handle any challenges and guarantee a long-lasting floor."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and resilient vinyl flooring solutions for Tucson's active lifestyles.",
+        "description": "Vinyl flooring is an excellent choice for Tucson homeowners seeking a waterproof, durable, and stylish flooring option. Leos General Flooring Contractors offers a wide range of vinyl flooring options, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Vinyl is resistant to moisture, scratches, and stains, making it ideal for kitchens, bathrooms, and high-traffic areas.\n\nWe provide expert vinyl flooring installation services, ensuring a seamless and long-lasting floor. Our team will properly prepare the subfloor to create a smooth and level surface. We also use high-quality adhesives to prevent lifting and bubbling. Understanding Tucson's temperature fluctuations, we ensure proper acclimation of the vinyl before installation.\n\nFrom classic wood looks to modern tile designs, we have a vinyl style to suit any décor. We can help you select the perfect vinyl flooring to complement your home's style and budget. We stand behind our workmanship and guarantee your satisfaction. Its ease of maintenance makes vinyl a great choice for rental properties as well.",
+        "process": [
+          "Step 1: Design Consultation – Explore vinyl options and select the perfect style.",
+          "Step 2: Subfloor Preparation – Ensure a smooth and level surface for installation.",
+          "Step 3: Professional Installation – Precise cutting and fitting for a seamless finish.",
+          "Step 4: Sealing and Finishing – Protect your vinyl floor for long-lasting beauty."
+        ],
+        "benefits": [
+          "Waterproof and Moisture-Resistant",
+          "Durable and Scratch-Resistant",
+          "Affordable and Versatile",
+          "Easy to Clean and Maintain"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties. It's also resistant to mold and mildew."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Use a damp mop and a pH-neutral cleaner specifically designed for vinyl flooring. Avoid using abrasive cleaners or scouring pads."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl plank?",
+            "answer": "Sheet vinyl comes in large rolls, providing a seamless surface. Vinyl plank is installed in individual pieces, creating a more realistic wood or tile look."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and stylish carpet installation services for homes in Tucson.",
+        "description": "Carpet offers warmth, comfort, and sound insulation, making it a popular choice for bedrooms, living rooms, and play areas in Tucson homes. Leos General Flooring Contractors provides professional carpet installation services, ensuring a plush and long-lasting floor. We offer a wide selection of carpet styles, colors, and textures to suit any taste and budget.\n\nOur experienced installers will properly prepare the subfloor, install high-quality padding, and stretch the carpet for a wrinkle-free finish. We use industry-leading techniques to ensure a seamless and durable installation. Given Tucson's dry climate, we recommend choosing carpets with stain-resistant properties to prevent fading and discoloration.\n\nFrom plush shags to durable berbers, we have a carpet style to meet your needs. We can help you select the perfect carpet to complement your home's décor and lifestyle. We also offer carpet repair and cleaning services to keep your carpet looking its best. We guarantee our workmanship and prioritize customer satisfaction.",
+        "process": [
+          "Step 1: Selection and Design – Choose the perfect carpet style and color.",
+          "Step 2: Subfloor Preparation – Ensure a clean and level surface for installation.",
+          "Step 3: Padding Installation – Provide cushioning and sound insulation.",
+          "Step 4: Professional Installation – Precise stretching and trimming for a seamless look."
+        ],
+        "benefits": [
+          "Warm and Comfortable",
+          "Sound Insulation",
+          "Wide Variety of Styles and Colors",
+          "Soft Underfoot"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Berber carpets are a durable and stain-resistant choice for high-traffic areas. They are also a good option for homes with pets."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "We recommend professional carpet cleaning every 6-12 months to remove dirt, allergens, and stains."
+          },
+          {
+            "question": "What is the best way to remove stains from carpet?",
+            "answer": "Act quickly and blot the stain with a clean cloth. Avoid rubbing, which can spread the stain. Use a carpet stain remover specifically designed for the type of stain."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair",
+        "name": "Flooring Repair",
+        "shortDescription": "Expert flooring repair services to restore the beauty and function of your Tucson floors.",
+        "description": "Even the most durable flooring can suffer damage over time. Leos General Flooring Contractors offers comprehensive flooring repair services to restore the beauty and function of your Tucson floors. Whether you have cracked tiles, warped hardwood, or torn vinyl, our experienced technicians can diagnose the problem and provide effective solutions.\n\nWe handle all types of flooring repairs, including: hardwood refinishing, tile replacement, laminate repair, and vinyl patching. We use high-quality materials and proven techniques to ensure a seamless and long-lasting repair. We understand the importance of matching existing flooring for a cohesive look. We'll source the closest possible match to seamlessly blend the repair with your existing floor.\n\nBefore suggesting a full replacement, we explore all repair options. We'll provide a detailed assessment of the damage and recommend the most cost-effective solution. We prioritize customer satisfaction and guarantee our workmanship. We understand Tucson homes and the common issues that arise due to the climate and age of the properties. From water damage to sun exposure, we have the expertise to address any flooring challenge.",
+        "process": [
+          "Step 1: Damage Assessment – Evaluate the extent of the damage and identify the cause.",
+          "Step 2: Material Sourcing – Find matching materials for a seamless repair.",
+          "Step 3: Professional Repair – Precise repairs to restore the flooring's integrity.",
+          "Step 4: Finishing Touches – Ensure a smooth and polished finish."
+        ],
+        "benefits": [
+          "Restores Damaged Flooring",
+          "Extends the Life of Your Floors",
+          "Cost-Effective Alternative to Replacement",
+          "Seamless Repairs"
+        ],
+        "faq": [
+          {
+            "question": "How can I prevent hardwood floors from warping?",
+            "answer": "Maintain consistent humidity levels in your home and clean up spills immediately. Avoid excessive moisture exposure."
+          },
+          {
+            "question": "Can you repair cracked tiles?",
+            "answer": "Yes, we can remove and replace cracked tiles. We'll source a matching tile to ensure a seamless repair."
+          },
+          {
+            "question": "What causes vinyl flooring to tear?",
+            "answer": "Sharp objects, heavy furniture, and excessive wear can cause vinyl flooring to tear. We can patch or replace damaged areas."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tucson",
+        "slug": "tucson-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C is proud to serve the Tucson community with top-quality flooring services. We understand the unique needs of Tucson homeowners and businesses, from dealing with the desert climate to matching the architectural styles found throughout the city. Our experienced team is dedicated to providing exceptional workmanship and customer service, ensuring your flooring project is completed to your satisfaction.\n\nWhether you're looking to install hardwood, tile, carpet, or laminate, Leo's General Flooring Contractors L.L.C has the expertise and selection to meet your needs. We offer a wide range of flooring options to suit any style and budget. We are committed to using high-quality materials and proven installation techniques to ensure your new floors will last for years to come. We are licensed, bonded, and insured for your peace of mind.",
+        "localContext": "Tucson, nestled in the Sonoran Desert, boasts a vibrant culture and a blend of modern and historic architecture, influencing flooring style choices. The hot, arid climate also plays a role in flooring material selection, favoring durable and heat-resistant options.",
+        "nearbyAreas": [
+          "Marana",
+          "Oro Valley",
+          "Sahuarita"
+        ]
+      },
+      {
+        "city": "Marana",
+        "slug": "marana-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C extends its flooring expertise to the growing community of Marana, Arizona. We understand the needs of Marana homeowners and businesses, from new construction projects to renovations of existing properties. Our team is dedicated to providing reliable and affordable flooring solutions that enhance the beauty and value of your home or business.\n\nWe offer a wide range of flooring options to meet the diverse needs of Marana residents, including hardwood, tile, carpet, laminate, and vinyl. Our experienced installers are skilled in all aspects of flooring installation, ensuring a seamless and professional finish. We pride ourselves on our commitment to customer satisfaction and our attention to detail.",
+        "localContext": "Marana, experiencing rapid growth, features a mix of contemporary homes and established neighborhoods, influencing flooring trends towards modern and durable options. Its family-friendly atmosphere also prioritizes safe and easy-to-maintain flooring.",
+        "nearbyAreas": [
+          "Tucson",
+          "Oro Valley",
+          "Avra Valley"
+        ]
+      },
+      {
+        "city": "Oro Valley",
+        "slug": "oro-valley-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C is pleased to offer our flooring services to the residents and businesses of Oro Valley, Arizona. We understand the unique character of Oro Valley, with its upscale homes and beautiful desert landscapes. Our team is committed to providing high-quality flooring solutions that complement the elegance and sophistication of the area.\n\nWhether you're looking to upgrade your kitchen with new tile flooring or create a warm and inviting living space with hardwood, Leo's General Flooring Contractors L.L.C has the expertise and selection to meet your needs. We use only the finest materials and employ skilled installers to ensure a flawless finish. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Oro Valley, known for its affluent community and scenic golf courses, favors sophisticated and durable flooring options that enhance the luxury of its homes. The desert landscape also influences choices towards low-maintenance and visually appealing materials.",
+        "nearbyAreas": [
+          "Tucson",
+          "Marana",
+          "Catalina Foothills"
+        ]
+      },
+      {
+        "city": "Sahuarita",
+        "slug": "sahuarita-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C proudly serves the growing community of Sahuarita, Arizona, offering a comprehensive range of flooring services. We understand the needs of Sahuarita homeowners and businesses, from new construction projects to renovations of existing properties. Our team is dedicated to providing reliable and affordable flooring solutions that enhance the comfort and style of your home or business.\n\nWe offer a wide selection of flooring options to suit any taste and budget, including carpet, tile, hardwood, laminate, and vinyl. Our experienced installers are skilled in all aspects of flooring installation, ensuring a professional and long-lasting result. We are committed to providing exceptional customer service and building lasting relationships with our clients.",
+        "localContext": "Sahuarita, a rapidly expanding suburb of Tucson, features a mix of family-friendly neighborhoods and new developments, influencing flooring preferences towards durable, affordable, and stylish options. The focus is often on practicality and comfort.",
+        "nearbyAreas": [
+          "Tucson",
+          "Green Valley",
+          "Corona de Tucson"
+        ]
+      },
+      {
+        "city": "Green Valley",
+        "slug": "green-valley-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C is dedicated to providing quality flooring services to the residents of Green Valley, Arizona. We understand the unique needs of this active adult community, with its focus on comfort, accessibility, and low maintenance. Our team is committed to providing flooring solutions that enhance the beauty and functionality of your home.\n\nWe offer a variety of flooring options that are ideal for Green Valley homes, including durable and easy-to-clean tile, comfortable carpet, and stylish laminate. Our experienced installers are skilled in all aspects of flooring installation, ensuring a seamless and professional finish. We pride ourselves on our attention to detail and our commitment to customer satisfaction.",
+        "localContext": "Green Valley, a retirement community, favors comfortable, safe, and low-maintenance flooring options that cater to accessibility needs. Durability and ease of cleaning are key considerations.",
+        "nearbyAreas": [
+          "Sahuarita",
+          "Rio Rico",
+          "Amado"
+        ]
+      },
+      {
+        "city": "Catalina Foothills",
+        "slug": "catalina-foothills-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C is pleased to offer its flooring services to the discerning residents of Catalina Foothills, Arizona. We understand the upscale nature of this community, with its luxury homes and stunning mountain views. Our team is committed to providing high-quality flooring solutions that complement the elegance and sophistication of the area.\n\nWhether you're looking to install hardwood flooring in your living room or upgrade your bathroom with new tile, Leo's General Flooring Contractors L.L.C has the expertise and selection to meet your needs. We use only the finest materials and employ skilled installers to ensure a flawless finish. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Catalina Foothills, an affluent area known for its luxury homes and scenic mountain views, often features high-end flooring choices such as hardwood, natural stone, and designer tiles. Aesthetics and quality are highly valued.",
+        "nearbyAreas": [
+          "Tucson",
+          "Oro Valley",
+          "Tanque Verde"
+        ]
+      },
+      {
+        "city": "Vail",
+        "slug": "vail-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C is proud to serve the growing community of Vail, Arizona, offering a wide range of flooring services. We understand the needs of Vail homeowners and businesses, from new construction projects to renovations of existing properties. Our team is dedicated to providing reliable and affordable flooring solutions that enhance the comfort and style of your home or business.\n\nWe offer a variety of flooring options to suit any taste and budget, including carpet, tile, hardwood, laminate, and vinyl. Our experienced installers are skilled in all aspects of flooring installation, ensuring a professional and long-lasting result. We are committed to providing exceptional customer service and building lasting relationships with our clients.",
+        "localContext": "Vail, a developing community with many new homes, often seeks affordable and durable flooring options that can withstand active families and pets. Practicality and value are important considerations.",
+        "nearbyAreas": [
+          "Tucson",
+          "Corona de Tucson",
+          "Rita Ranch"
+        ]
+      },
+      {
+        "city": "Sierra Vista",
+        "slug": "sierra-vista-az",
+        "state": "AZ",
+        "content": "Leo's General Flooring Contractors L.L.C extends its professional flooring services to Sierra Vista, AZ, catering to both residential and commercial clients. Understanding the unique needs of this community, we offer a diverse range of flooring solutions designed to withstand the local climate and complement the architectural styles prevalent in Sierra Vista.\n\nFrom durable tile for high-traffic areas to comfortable carpet for living spaces, our team is equipped to handle any flooring project with precision and care. With years of experience, Leo's General Flooring Contractors L.L.C ensures that every installation is completed to the highest standards, providing lasting beauty and functionality to your property.",
+        "localContext": "Sierra Vista, with its proximity to Fort Huachuca, has a diverse population with varying flooring preferences, ranging from practical and durable options to more stylish and decorative choices.",
+        "nearbyAreas": [
+          "Huachuca City",
+          "Tombstone",
+          "Bisbee"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tile Flooring",
+        "text": "Leos team did a fantastic job installing new tile in my kitchen. They were professional, efficient, and the quality of their work is outstanding. I highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Hardwood Flooring",
+        "text": "Leo's Flooring installed beautiful hardwood floors in our living room. There were some minor delays due to material availability, but they communicated well and the final result is gorgeous. Very happy!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "We needed new flooring in our rental property and Leos General Flooring Contractors provided a quick and affordable solution with laminate. The tenants love it, and it looks great! Will definitely use them again.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Flooring Repair",
+        "text": "Leo repaired some water damage to our hardwood floors after a monsoon storm. He matched the existing stain perfectly, and you can't even tell there was any damage. Excellent work!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Alicia M.",
+        "rating": 4,
+        "service": "Vinyl Flooring",
+        "text": "Leos installed vinyl flooring in our bathroom. The install team was quick, clean, and very respectful of our home. There was a small issue with the seam, but they came back and fixed it promptly. Great service!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Brian P.",
+        "rating": 5,
+        "service": "Carpet Installation",
+        "text": "Great experience. Needed carpet replaced in two bedrooms and Leos team was on time, professional, and did an excellent job. Would highly recommend their carpet installation services.",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tucson Flooring Contractor | Leos Flooring",
+        "description": "Expert flooring installation & repair in Tucson, AZ. Hardwood, tile, laminate, vinyl, carpet. Free estimates! Call Leos General Flooring."
+      },
+      "about": {
+        "title": "About Leos Flooring | Tucson, AZ",
+        "description": "Learn about Leos General Flooring Contractors in Tucson. Quality flooring services, local expertise, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Flooring Services | Tucson, AZ | Leos Flooring",
+        "description": "Comprehensive flooring services in Tucson: Hardwood, tile, laminate, vinyl, and carpet installation & repair. Free quotes!"
+      },
+      "contact": {
+        "title": "Contact Leos Flooring | Tucson, AZ",
+        "description": "Contact Leos General Flooring Contractors for flooring services in Tucson, AZ. Get a free estimate for installation or repair. Call us today!"
+      },
+      "reviews": {
+        "title": "Leos Flooring Reviews | Tucson, AZ",
+        "description": "Read reviews for Leos General Flooring Contractors in Tucson, AZ. See what our satisfied customers are saying about our flooring services."
+      },
+      "service-areas": {
+        "title": "Flooring Service Areas | Tucson, AZ",
+        "description": "Leos General Flooring Contractors provides flooring services in Tucson, AZ and surrounding areas. See our complete service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "flooring-repair": "/images/service-flooring-repair.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair": {
+        "src": "/images/service-flooring-repair.webp",
+        "srcset": "/images/service-flooring-repair-400w.webp 400w, /images/service-flooring-repair-800w.webp 800w, /images/service-flooring-repair-1200w.webp 1200w, /images/service-flooring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

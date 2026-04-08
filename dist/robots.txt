@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-leos-general-flooring-contractors-l-l-c.dream-surge.com/sitemap-index.xml
